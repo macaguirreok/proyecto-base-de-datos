@@ -6,7 +6,7 @@ Proyecto de diseño, desarrollo y gestión de una base de datos relacional para 
 
 El sistema permite administrar información de profesores, alumnos, materias, inscripciones y calificaciones, incorporando mecanismos para garantizar la integridad de los datos y automatizar determinadas operaciones.
 
-Esta versión representa una evolución de un proyecto anterior, incorporando mejoras en la organización del esquema, restricciones de integridad referencial, transacciones y triggers para la validación y auditoría de operaciones.
+Esta versión representa una evolución de un proyecto anterior (bd2-ProyectoUniversidad2026), incorporando mejoras en la organización del esquema, restricciones de integridad referencial, transacciones y triggers para la validación y auditoría de operaciones.
 
 El objetivo es aplicar conocimientos de SQL y diseño de bases de datos mediante un escenario práctico que permita trabajar tanto con la manipulación de información como con la consistencia y el control de los datos.
 
